@@ -57,6 +57,9 @@ namespace ExerciciosPT1
                 case "15":
                     SalarioBonus.Conteudo();
                     break;
+                case "16":
+                    Esfera.Conteudo();
+                    break;
                 default:
                     Console.WriteLine("Exercicio não encontrado.");
                     break;
