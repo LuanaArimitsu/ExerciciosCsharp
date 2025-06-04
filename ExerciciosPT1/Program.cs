@@ -60,6 +60,9 @@ namespace ExerciciosPT1
                 case "16":
                     Esfera.Conteudo();
                     break;
+                case "17":
+                    Conversao.Conteudo();
+                    break;
                 default:
                     Console.WriteLine("Exercicio não encontrado.");
                     break;
